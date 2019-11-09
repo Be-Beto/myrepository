@@ -20,6 +20,7 @@ public class Main {
 	// 3. Allow adjustable colours
 	// 4. Draw low res preview
 	// 5. Make canvas draggable
+	// 6. New line
 
 	static public void main(String[] args) {
 		
