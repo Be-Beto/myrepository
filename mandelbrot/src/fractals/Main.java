@@ -21,6 +21,9 @@ public class Main {
 	// 4. Draw low res preview
 	// 5. Make canvas draggable
 	// 6. New line
+	// 7. New line 
+	// 8. New line 
+	// 9. New line
 
 	static public void main(String[] args) {
 		
